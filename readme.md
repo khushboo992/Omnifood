@@ -31,15 +31,17 @@ This project demonstrates strong frontend development skills including layout de
 
 ## 📷 Preview
 
-[Omnifood Screenshot](img/imageOmni/s1.png)
-[Omnifood Screenshot](img/imageOmni/s2.png)
-[Omnifood Screenshot](img/imageOmni/s3.png)
-[Omnifood Screenshot](img/imageOmni/s4.png)
-[Omnifood Screenshot](img/imageOmni/s5.png)
-[Omnifood Screenshot](img/imageOmni/s6.png)
-[Omnifood Screenshot](img/imageOmni/s7.png)
+![Omnifood Screenshot](img/imageOmni/s1.png)
+![Omnifood Screenshot](img/imageOmni/s2.png)
+![Omnifood Screenshot](img/imageOmni/s3.png)
+![Omnifood Screenshot](img/imageOmni/s4.png)
+![Omnifood Screenshot](img/imageOmni/s5.png)
+![Omnifood Screenshot](img/imageOmni/s6.png)
+![Omnifood Screenshot](img/imageOmni/s7.png)
 ![Omnifood Screenshot](img/imageOmni/s8.png)
 ![Omnifood Screenshot](img/imageOmni/s9.png)
+![Omnifood Screenshot](img/imageOmni/s910.png)
+![Omnifood Screenshot](img/imageOmni/s11.png)
 Explore the live preview: _[Link to live demo if deployed]_ (e.g., GitHub Pages, Netlify)
 
 ---
