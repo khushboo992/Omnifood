@@ -31,16 +31,16 @@ This project demonstrates strong frontend development skills including layout de
 
 ## 📷 Preview
 
-> ![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153705.png)
-> ![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153719.png)
-> ![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153732.png)
-> ![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153741.png)
-> ![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153751.png)
-> ![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153802.png)
-> [Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153837.png)
-> [Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153850.png)
-> [Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153900.png) >
-> Explore the live preview: _[Link to live demo if deployed]_ (e.g., GitHub Pages, Netlify)
+![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153705.png)
+![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153719.png)
+![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153732.png)
+![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153741.png)
+![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153751.png)
+![Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153802.png)
+[Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153837.png)
+[Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153850.png)
+[Omnifood Screenshot](img/imageOmni/Screenshot 2025-07-11 153900.png) >
+Explore the live preview: _[Link to live demo if deployed]_ (e.g., GitHub Pages, Netlify)
 
 ---
 
