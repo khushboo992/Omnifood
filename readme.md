@@ -67,11 +67,11 @@ Meal 2: Avocado Salad
 - Average rating: 4.8
 - Number reviews: 441
 
-### We offer a free sample meal
+<!-- ### We offer a free sample meal
 
 [Create simple form for users to sign up]
 
-Healthy, tasty and hassle-free meals are waiting for you. Start eating well today. You can cancel or pause anytime. And the first meal is on us!
+Healthy, tasty and hassle-free meals are waiting for you. Start eating well today. You can cancel or pause anytime. And the first meal is on us! -->
 
 ### We have 2 pricing plans
 
