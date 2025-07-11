@@ -728,24 +728,24 @@ strong {
   margin-bottom: 4.8rem;
 }
 
-/* .cta-img-box {
+.cta-img-box {
   background-image: linear-gradient(
       to right bottom,
       rgba(235, 151, 78, 0.35),
       rgba(230, 125, 34, 0.35)
     ),
-    url("../img/eating.jpg");
+    url("img/eating.jpg");
   background-size: cover;
   background-position: center;
-} */
+}
 
-.cta-img-box {
+/* .cta-img-box {
   width: 100%;
   height: auto;
   display: block;
   border-radius: 11px;
   object-fit: cover;
-}
+} */
 
 .cta-form {
   display: grid;
