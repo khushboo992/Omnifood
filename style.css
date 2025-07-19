@@ -46,12 +46,14 @@ SPACING SYSTEM (px)
 html {
   font-size: 62.5%;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 body {
   font-family: "Rubik", sans-serif;
   line-height: 1;
   font-weight: 400;
   color: #555;
+  overflow-x: hidden;
 }
 /************************/
 /*GENERAL REUSABLE COMPONENTS*/
@@ -89,9 +91,9 @@ body {
   grid-template-columns: repeat(4, 1fr);
 }
 
-.grid--5-cols {
+/* .grid--5-cols {
   grid-template-columns: repeat(5, 1fr);
-}
+} */
 
 .grid--center-v {
   align-items: center;
@@ -259,6 +261,7 @@ strong {
   /*because we want to be sticky later*/
   height: 9.6rem;
   padding: 4.8rem 4.8rem 9.6rem 4.8rem;
+  position: relative;
 }
 
 .logo {
@@ -859,8 +862,8 @@ strong {
   color: #555;
 }
 
-/*Mobile*/
-/* .btn-mobile-nav {
+/* Mobile */
+.btn-mobile-nav {
   border: none;
   background: none;
   cursor: pointer;
@@ -873,4 +876,4 @@ strong {
 }
 .icon-mobile-nav[name="close-outline"] {
   display: none;
-} */
+}
