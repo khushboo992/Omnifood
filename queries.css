@@ -86,6 +86,7 @@
   /*Mobile*/
   .btn-mobile-nav {
     display: block;
+    z-index: 9999;
   }
 
   .main-nav {
